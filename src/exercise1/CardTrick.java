@@ -50,7 +50,7 @@ public class CardTrick {
 
         scanner.close();
     }
-
+//i am done 
     private static void printInfo() {
     
         System.out.println("good work!");
